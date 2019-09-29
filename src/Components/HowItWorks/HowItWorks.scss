@@ -1,0 +1,60 @@
+@import '../../Scss/variables.scss';
+
+.how-it-works {
+    position: absolute;
+    bottom: 12px;
+    right: 15px;
+    opacity: .5;
+
+    transition: .15s opacity linear;
+    
+    &:hover {
+        opacity: .8;
+
+        cursor: pointer;
+    }
+
+    &_relative {
+        position: relative;
+
+        float: right;
+
+        bottom: 0;
+        right: 0;
+    }
+
+    &__modal {
+        .modal-title {
+            font-size: 1.4rem;
+        }
+
+        p {
+            text-indent: 20px;
+            hyphens: auto;
+
+            &::before {
+                content: '\25CF';
+                position: absolute;
+                left: 0;
+            }
+        }
+
+        p:not(:last-child) {
+            margin-bottom: 15px;
+        }
+
+        @media screen and (max-width: $breakpoint-3) {
+            .modal-title {
+                font-size: 1.2rem;
+            }   
+
+            p {
+                font-size: .9rem;
+            }
+
+            p:not(:last-child) {
+                margin-bottom: 10px;
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+node_modules
+build
+src/Components/**/*.js
+src/Tools/*.js
+src/App.js

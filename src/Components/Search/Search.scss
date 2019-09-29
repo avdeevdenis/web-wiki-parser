@@ -1,0 +1,49 @@
+@import '../../Scss/variables.scss';
+
+.search {
+    &__form {
+        display: flex;
+        align-items: center;
+    }
+
+    &__item {
+        font-size: 15px;
+    }
+
+    @media screen and (max-width: $breakpoint-3) {
+        select, input, button {
+            font-size: 15px;
+        }
+
+        select {
+            padding-left: .4em;
+            padding-right: .4em;
+        }
+    }
+
+    &__settings {
+        margin-left: 8px;
+
+        width: 32px;
+        height: 32px;
+
+        path {
+            transition: .15s fill linear;
+        }
+
+        &:hover {
+            animation: rotate 2.5s linear infinite;
+            cursor: pointer;
+
+            path {
+                fill: #ccc;
+            }
+        }
+
+        @keyframes rotate {
+            to {
+                transform: rotate(360deg)
+            }
+        }
+    }
+}

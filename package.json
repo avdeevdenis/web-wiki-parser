@@ -1,0 +1,38 @@
+{
+  "name": "web-wiki-parser",
+  "version": "0.1.0",
+  "author": "Avdeev Denis",
+  "private": false,
+  "dependencies": {
+    "@types/react": "^16.9.3",
+    "@types/react-dom": "^16.9.0",
+    "bootstrap": "^4.3.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "2.0.3"
+  },
+  "homepage": "https://avdeevdenis.github.io/web-wiki-parser",
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "node-html-parser": "^1.1.16",
+    "node-sass": "^4.12.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "smoothscroll-polyfill": "^0.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "go": "npm run predeploy && npm run deploy",
+    "all": "git add . && git commit --amend --no-edit && git push origin master -f"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

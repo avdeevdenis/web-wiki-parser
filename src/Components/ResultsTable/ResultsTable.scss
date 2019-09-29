@@ -1,0 +1,35 @@
+@import '../../Scss/variables.scss';
+
+.results-table {
+    margin-top: 25px;
+
+    clear: both;
+
+    font-size: 15px;
+
+    overflow-x: auto;
+
+    padding-top: 10px;
+
+    margin-bottom: 1rem;
+
+    min-height: 100vh;
+    margin-top: calc(var(--vh, 1vh) * 100 - 50px);
+    // margin-top: calc(100vh - 50px);
+
+    .table {
+        margin-bottom: 0;
+    }
+
+    td, th {
+        padding: .6rem;
+    }
+
+    @media screen and (max-width: $breakpoint-1) {
+        font-size: 14px;
+
+        td, th {
+            padding: .35rem .55rem;
+        }
+    }    
+}
