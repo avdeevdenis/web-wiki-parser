@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff"
   },
   {
-    "revision": "4400dd8e3d0920b80119",
-    "url": "/web-wiki-parser/static/css/main.6d185b4b.chunk.css"
+    "revision": "18e7a53be7a13869c89a",
+    "url": "/web-wiki-parser/static/css/main.4785d9ae.chunk.css"
   },
   {
-    "revision": "2c225a4e3f2aadcfa518",
-    "url": "/web-wiki-parser/static/js/1.2c225a4e.chunk.js"
+    "revision": "3161edeb6cf99ee11e1c",
+    "url": "/web-wiki-parser/static/js/1.3161edeb.chunk.js"
   },
   {
     "revision": "e59ae71164b1d36b46fc",
@@ -20,27 +20,27 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr4fJh1Zyc61YBlG.4b5bdab4.woff"
   },
   {
-    "revision": "4400dd8e3d0920b80119",
-    "url": "/web-wiki-parser/static/js/main.4400dd8e.chunk.js"
+    "revision": "18e7a53be7a13869c89a",
+    "url": "/web-wiki-parser/static/js/main.18e7a53b.chunk.js"
   },
   {
     "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
   },
   {
-    "revision": "54f4d2823a42074c68181d5772c4e49b",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJh1Zyc61YBlG.54f4d282.woff"
+    "revision": "12e906709c596ec6fd9444caa31dc57e",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrwfJh1Zyc61YBlG.12e90670.woff"
   },
   {
     "revision": "577d3b7723e8bc200cdd5747df3847a4",
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJh1Zyc61YA.577d3b77.woff"
   },
   {
-    "revision": "12e906709c596ec6fd9444caa31dc57e",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrwfJh1Zyc61YBlG.12e90670.woff"
+    "revision": "54f4d2823a42074c68181d5772c4e49b",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJh1Zyc61YBlG.54f4d282.woff"
   },
   {
-    "revision": "9896d50a017c4f284ac6050996f3a0c4",
+    "revision": "9eaa78a11504c8a4d2383bec39df6075",
     "url": "/web-wiki-parser/index.html"
   }
 ];
