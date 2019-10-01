@@ -1021,7 +1021,6 @@
    *  всех словарей.
    */
   Morph.init = function(path, callback) {
-    console.log('test',path + '/words.dawg');
     var loading = 0;
     var tagsInt, tagsExt;
     function loaded() {
