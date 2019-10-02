@@ -1,11 +1,11 @@
 {
-  "main.css": "/web-wiki-parser/static/css/main.655d1860.chunk.css",
-  "main.js": "/web-wiki-parser/static/js/main.532d7bcd.chunk.js",
+  "main.css": "/web-wiki-parser/static/css/main.d93b1627.chunk.css",
+  "main.js": "/web-wiki-parser/static/js/main.ce9a60e5.chunk.js",
   "static/js/1.c1b19325.chunk.js": "/web-wiki-parser/static/js/1.c1b19325.chunk.js",
   "runtime~main.js": "/web-wiki-parser/static/js/runtime~main.e59ae711.js",
   "static/media/index.scss": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff",
-  "static/css/main.655d1860.chunk.css.map": "/web-wiki-parser/static/css/main.655d1860.chunk.css.map",
+  "static/css/main.d93b1627.chunk.css.map": "/web-wiki-parser/static/css/main.d93b1627.chunk.css.map",
   "index.html": "/web-wiki-parser/index.html",
-  "precache-manifest.c785f0bfe32e5b3c584dbfa1060b6989.js": "/web-wiki-parser/precache-manifest.c785f0bfe32e5b3c584dbfa1060b6989.js",
+  "precache-manifest.5b351e5fc259208fbbaef0fb4d070474.js": "/web-wiki-parser/precache-manifest.5b351e5fc259208fbbaef0fb4d070474.js",
   "service-worker.js": "/web-wiki-parser/service-worker.js"
 }
