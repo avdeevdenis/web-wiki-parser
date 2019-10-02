@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "1dfcd4d217235ff223cd1c213640be10",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff"
+    "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
   },
   {
-    "revision": "8c6440e0798fc355f497",
+    "revision": "ba1bd8e32efa8130a72e",
     "url": "/web-wiki-parser/static/css/main.6753ee15.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr4fJh1Zyc61YBlG.4b5bdab4.woff"
   },
   {
-    "revision": "8c6440e0798fc355f497",
-    "url": "/web-wiki-parser/static/js/main.8c6440e0.chunk.js"
+    "revision": "ba1bd8e32efa8130a72e",
+    "url": "/web-wiki-parser/static/js/main.ba1bd8e3.chunk.js"
   },
   {
-    "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
+    "revision": "1dfcd4d217235ff223cd1c213640be10",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff"
   },
   {
     "revision": "12e906709c596ec6fd9444caa31dc57e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJh1Zyc61YA.577d3b77.woff"
   },
   {
-    "revision": "5d987418eca0a3a0343765a3f5e16bff",
+    "revision": "93055e22a1c843c3cfe8dc9dc039d26b",
     "url": "/web-wiki-parser/index.html"
   }
 ];
