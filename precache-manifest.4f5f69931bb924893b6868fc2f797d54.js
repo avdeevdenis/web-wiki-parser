@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/js/main.c114035a.chunk.js"
   },
   {
-    "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
-  },
-  {
     "revision": "12e906709c596ec6fd9444caa31dc57e",
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrwfJh1Zyc61YBlG.12e90670.woff"
   },
   {
     "revision": "54f4d2823a42074c68181d5772c4e49b",
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJh1Zyc61YBlG.54f4d282.woff"
+  },
+  {
+    "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
   },
   {
     "revision": "577d3b7723e8bc200cdd5747df3847a4",
