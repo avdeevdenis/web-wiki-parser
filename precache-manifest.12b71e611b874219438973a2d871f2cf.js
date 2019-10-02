@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "4b5bdab4756c163d4c18ac5e12ebd4e6",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr4fJh1Zyc61YBlG.4b5bdab4.woff"
+    "revision": "1dfcd4d217235ff223cd1c213640be10",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff"
   },
   {
-    "revision": "558be8da32372468897e",
+    "revision": "0d1d417054a547d02ab5",
     "url": "/web-wiki-parser/static/css/main.3a354e7d.chunk.css"
   },
   {
@@ -16,16 +16,20 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/js/runtime~main.e59ae711.js"
   },
   {
-    "revision": "1dfcd4d217235ff223cd1c213640be10",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrcfJh1Zyc61YBlG.1dfcd4d2.woff"
+    "revision": "4b5bdab4756c163d4c18ac5e12ebd4e6",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr4fJh1Zyc61YBlG.4b5bdab4.woff"
   },
   {
-    "revision": "558be8da32372468897e",
-    "url": "/web-wiki-parser/static/js/main.558be8da.chunk.js"
+    "revision": "0d1d417054a547d02ab5",
+    "url": "/web-wiki-parser/static/js/main.0d1d4170.chunk.js"
   },
   {
     "revision": "c6b31663e5f5c97f37a7194ae10eba8e",
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrAfJh1Zyc61YBlG.c6b31663.woff"
+  },
+  {
+    "revision": "577d3b7723e8bc200cdd5747df3847a4",
+    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJh1Zyc61YA.577d3b77.woff"
   },
   {
     "revision": "12e906709c596ec6fd9444caa31dc57e",
@@ -36,11 +40,7 @@ self.__precacheManifest = [
     "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDr0fJh1Zyc61YBlG.54f4d282.woff"
   },
   {
-    "revision": "577d3b7723e8bc200cdd5747df3847a4",
-    "url": "/web-wiki-parser/static/media/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJh1Zyc61YA.577d3b77.woff"
-  },
-  {
-    "revision": "5ea92177373d39293b4b7e93fe3194fe",
+    "revision": "b5832e3063bdc4a52d846ac8af62c5e8",
     "url": "/web-wiki-parser/index.html"
   }
 ];
