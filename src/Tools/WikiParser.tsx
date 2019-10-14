@@ -455,6 +455,7 @@ export class WikiParser extends React.Component {
 					.catch(error => {
 						// не нарушаем цепочку промисов если до какого-то url'а не достучались
 						console.log(`Произошла ошибка при парсинге страницы: '${decodeURIComponent(url)}'. ${JSON.stringify(error)}`);
+						this.timeoutedRequestsCount++;
 						resolve('');
 					});
 			}, timeoutDelay);
