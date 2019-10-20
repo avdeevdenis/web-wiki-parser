@@ -310,6 +310,7 @@ export class WikiParser extends React.Component {
 
 		this.requestsInSecond = options.requestsInSecond;
 		this.maxDisplayedPagesCount = options.maxDisplayedPagesCount;
+		this.timeoutedRequestsCount = 0;
 	}
 
 	/**
